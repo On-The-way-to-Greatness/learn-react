@@ -1,0 +1,15 @@
+feat: New feature
+
+fix: Bug fix
+
+refactor: Code restructuring (no feature or bug)
+
+chore: Maintenance (e.g., config, docs)
+
+docs: Documentation only
+
+test: Adding or updating tests
+
+style: Formatting (no logic change)
+
+perf: Performance improvement
